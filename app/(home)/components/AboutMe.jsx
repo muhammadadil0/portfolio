@@ -83,7 +83,7 @@ const AboutMe = () => {
                         >
                             <motion.div variants={itemAnimation} className="space-y-4">
                                 <h3 className="text-2xl md:text-3xl font-bold text-white">
-                                    Hello! I'm Muhammad Adil
+                                    Hello! I&apos;m Muhammad Adil
                                 </h3>
                                 <p className="text-base md:text-lg text-gray-300 leading-relaxed">
                                     I am a 7th-semester Software Engineering student at FAST NUCES Peshawar. I specialize in mobile app development and web development, with hands-on experience building projects in Flutter and Django.
