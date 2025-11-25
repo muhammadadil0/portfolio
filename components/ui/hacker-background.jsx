@@ -110,7 +110,7 @@ export default function HackerBackground() {
       ctx.clearRect(0, 0, canvas.width, canvas.height);
 
       if (lines.length < maxLines) {
-        const newY = lines.length > 0 
+        const newY = lines.length > 0
           ? lines[lines.length - 1].y + lineHeight * 2
           : 50;
         if (newY < canvas.height - 50) {

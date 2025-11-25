@@ -10,6 +10,7 @@ import NextTopLoader from "nextjs-toploader";
 import HackerBackground from "@/components/ui/hacker-background";
 import BouncingBalls from "@/components/ui/bouncing-balls";
 import FallingText from "@/components/ui/falling-text";
+import Terminal from "@/components/ui/terminal";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -44,6 +45,7 @@ export default function RootLayout({ children }) {
           <HackerBackground />
           <BouncingBalls />
           <FallingText />
+          <Terminal />
           
           <NextTopLoader />
           <Header />
