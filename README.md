@@ -1,55 +1,97 @@
-![Thumbnail ](images/Thumbnail.png)
+👋 Hi, I’m Muhammad Adil
 
-# Huzaif Ahmed - Portfolio Website
+🚀 Flutter & Backend Developer | Software Engineering Student
+🌍 Open to Remote Opportunities
 
-A modern and responsive portfolio website to showcase my projects, skills, and experiences. Built with Next.js and styled using Tailwind CSS, this portfolio provides a seamless user experience with smooth animations and an organized layout.
+👨‍💻 About Me
 
-## Features
+I’m a Software Engineering student with hands-on experience in building production-level applications for real clients, including UK-based projects.
 
-- **Responsive Design**: Optimized for all devices, including mobile, tablet, and desktop.
-- **Dark Theme**: Provides a visually appealing dark theme.
-- **Smooth Animations**: Utilizes Framer Motion for animations.
+I specialize in:
 
-## Technologies Used
+📱 Flutter mobile app development
 
-- **Next.js**: React framework for building static and dynamic websites.
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
-- **Framer Motion**: Animation library for React to create smooth transitions and effects.
-- **GitHub API**: Fetches the latest GitHub projects dynamically.
+🖥 Backend development using Django & Flask
 
-## Getting Started
+🔗 REST APIs & database-driven systems
 
-### Prerequisites
+🔐 Currently working on a Blockchain-based Final Year Project
 
-- [Node.js](https://nodejs.org/) (v14 or later)
-- [Git](https://git-scm.com/)
+I enjoy building scalable, clean, and user-focused applications.
 
-### Installation
+🛠 Tech Stack
+Mobile & Frontend
 
-1. Clone the repository:
+Flutter
 
-   ```bash
-   git clone https://github.com/huzaifahmedz/portfolio-website.git
-   ```
+Dart
 
-2. Navigate into the project directory:
+React / Next.js
 
-   ```bash
-   cd portfolio-website
-   ```
+HTML, CSS, JavaScript
 
-3. Install dependencies:
+Backend
 
-   ```bash
-   npm install
-   ```
+Django
 
-4. Start the development server:
+Flask
 
-   ```bash
-   npm run dev
-   ```
+Laravel (PHP)
 
+REST APIs
 
+Database & Tools
 
-![Demo](images/Screenshot_1.png)
+Firebase
+
+MySQL
+
+SQLite
+
+Git & GitHub
+
+Other
+
+Blockchain (Academic Project)
+
+API Integration
+
+Authentication Systems
+
+📌 Featured Projects
+📱 Flutter Applications
+
+Cross-platform apps with API integration
+
+Authentication, CRUD, and UI-focused designs
+
+🖥 Backend Systems
+
+REST APIs using Django & Flask
+
+Secure authentication and database handling
+
+🔗 Blockchain (FYP)
+
+Blockchain-based Final Year Project
+
+Focused on decentralized concepts and security
+
+🔗 More projects:
+👉 https://github.com/muhammadadil0?tab=repositories
+
+🌐 Portfolio
+
+🔗 https://adilportfolio-tawny.vercel.app/
+
+📫 Contact Me
+
+💼 Open to Remote Jobs & Freelance
+
+🌐 Portfolio: https://adilportfolio-tawny.vercel.app
+
+🐙 GitHub: https://github.com/muhammadadil0
+
+⭐ Let’s Build Something Great
+
+If you’re looking for a remote Flutter or Backend Developer, feel free to connect with me!
