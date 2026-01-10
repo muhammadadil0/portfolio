@@ -11,6 +11,7 @@ import HackerBackground from "@/components/ui/hacker-background";
 import BouncingBalls from "@/components/ui/bouncing-balls";
 import FallingText from "@/components/ui/falling-text";
 import Terminal from "@/components/ui/terminal";
+import LoadingWrapper from "@/components/LoadingWrapper";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -42,17 +43,19 @@ export default function RootLayout({ children }) {
           enableSystem
           disableTransitionOnChange
         >
-          <HackerBackground />
-          <BouncingBalls />
-          <FallingText />
-          <Terminal />
-          
-          <NextTopLoader />
-          <Header />
+          <LoadingWrapper>
+            <HackerBackground />
+            <BouncingBalls />
+            <FallingText />
+            <Terminal />
+            
+            <NextTopLoader />
+            <Header />
 
-          {children}
+            {children}
 
-          <Footer />
+            <Footer />
+          </LoadingWrapper>
           <Toaster
             position="top-right"
             toastOptions={{

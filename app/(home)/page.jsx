@@ -3,6 +3,9 @@ import React from 'react'
 import HeroSection from './components/HeroSection'
 import AboutMe from './components/AboutMe'
 import SkillsShowcase from './components/SkillsShowcase'
+import CodePhilosophy from './components/CodePhilosophy'
+import ProcessSection from './components/ProcessSection'
+import QuoteSection from './components/QuoteSection'
 import GithubProjects from './components/GithubProjects'
 import SkillsSection from './components/Skills'
 import ExperienceSection from './components/Experience'
@@ -17,6 +20,9 @@ const Home = () => {
       <HeroSection />
       <AboutMe />
       <SkillsShowcase />
+      <CodePhilosophy />
+      <ProcessSection />
+      <QuoteSection />
       <ExperienceSection />
       <Education />
       <GithubProjects />
