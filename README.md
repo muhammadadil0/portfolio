@@ -1,97 +1,89 @@
-👋 Hi, I’m Muhammad Adil
+<h1 align="center">Hi 👋, I’m Muhammad Adil</h1>
+<h3 align="center">Flutter & Backend Developer | Software Engineering Student</h3>
 
-🚀 Flutter & Backend Developer | Software Engineering Student
-🌍 Open to Remote Opportunities
+<p align="center">
+  🌍 Open to Remote Opportunities • 💼 Freelance & Full-Time
+</p>
 
-👨‍💻 About Me
+---
 
-I’m a Software Engineering student with hands-on experience in building production-level applications for real clients, including UK-based projects.
+## 👨‍💻 About Me
 
-I specialize in:
+I am a **Software Engineering student** with hands-on experience in building  
+**production-level applications** for real clients, including **UK-based projects**.
 
-📱 Flutter mobile app development
+I focus on building **scalable, clean, and user-centric solutions**.
 
-🖥 Backend development using Django & Flask
+- 📱 Flutter mobile application development  
+- 🖥 Backend development with **Django & Flask**  
+- 🔗 REST APIs & database-driven systems  
+- 🔐 Currently working on a **Blockchain-based Final Year Project**
 
-🔗 REST APIs & database-driven systems
+---
 
-🔐 Currently working on a Blockchain-based Final Year Project
+## 🛠 Tech Stack
 
-I enjoy building scalable, clean, and user-focused applications.
+### 📱 Mobile & Frontend
+- Flutter • Dart  
+- React • Next.js  
+- HTML • CSS • JavaScript  
 
-🛠 Tech Stack
-Mobile & Frontend
+### 🖥 Backend
+- Django  
+- Flask  
+- Laravel (PHP)  
+- REST APIs  
 
-Flutter
+### 🗄 Databases & Tools
+- Firebase  
+- MySQL • SQLite  
+- Git & GitHub  
 
-Dart
+### 🔗 Other
+- Blockchain (Academic Project)  
+- API Integration  
+- Authentication Systems  
 
-React / Next.js
+---
 
-HTML, CSS, JavaScript
+## 📌 Featured Work
 
-Backend
+### 📱 Flutter Applications
+- Cross-platform mobile apps  
+- REST API integration  
+- Authentication & CRUD functionality  
+- Clean and responsive UI
 
-Django
+### 🖥 Backend Systems
+- RESTful APIs using Django & Flask  
+- Secure authentication  
+- Database-driven applications
 
-Flask
+### 🔗 Blockchain (FYP)
+- Blockchain-based Final Year Project  
+- Focus on decentralized concepts & security  
 
-Laravel (PHP)
-
-REST APIs
-
-Database & Tools
-
-Firebase
-
-MySQL
-
-SQLite
-
-Git & GitHub
-
-Other
-
-Blockchain (Academic Project)
-
-API Integration
-
-Authentication Systems
-
-📌 Featured Projects
-📱 Flutter Applications
-
-Cross-platform apps with API integration
-
-Authentication, CRUD, and UI-focused designs
-
-🖥 Backend Systems
-
-REST APIs using Django & Flask
-
-Secure authentication and database handling
-
-🔗 Blockchain (FYP)
-
-Blockchain-based Final Year Project
-
-Focused on decentralized concepts and security
-
-🔗 More projects:
+🔎 **Explore my work:**  
 👉 https://github.com/muhammadadil0?tab=repositories
 
-🌐 Portfolio
+---
 
-🔗 https://adilportfolio-tawny.vercel.app/
+## 🌐 Portfolio
 
-📫 Contact Me
+🔗 **Live Portfolio:**  
+https://adilportfolio-tawny.vercel.app/
 
-💼 Open to Remote Jobs & Freelance
+---
 
-🌐 Portfolio: https://adilportfolio-tawny.vercel.app
+## 📫 Contact
 
-🐙 GitHub: https://github.com/muhammadadil0
+- 💼 Open to **Remote Jobs & Freelance Work**  
+- 🌐 Portfolio: https://adilportfolio-tawny.vercel.app  
+- 🐙 GitHub: https://github.com/muhammadadil0  
 
-⭐ Let’s Build Something Great
+---
 
-If you’re looking for a remote Flutter or Backend Developer, feel free to connect with me!
+## ⭐ Let’s Build Something Great
+
+If you’re looking for a **remote Flutter or Backend Developer**,  
+feel free to **connect or reach out**.
