@@ -95,7 +95,7 @@ const ProjectsShowcase = () => {
                         maxWidth: '600px',
                         margin: '0 auto 2rem'
                     }}>
-                        Let's build something amazing together. Get in touch and let's discuss how we can bring your ideas to life.
+                        Let&apos;s build something amazing together. Get in touch and let&apos;s discuss how we can bring your ideas to life.
                     </p>
                     <a
                         href="/contact"
