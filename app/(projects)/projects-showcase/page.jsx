@@ -2,8 +2,11 @@
 import React from 'react'
 import BackgroundEffects from '@/components/ui/background-effects'
 import { config } from '@/config'
-import ProjectShowcase from './components/ProjectShowcase'
-import SectionTitle from './components/SectionTitle'
+import ProjectShowcase from '../projects/components/ProjectShowcase'
+import SectionTitle from '../projects/components/SectionTitle'
+
+
+
 
 const ProjectsShowcase = () => {
     const projects = config.projects
